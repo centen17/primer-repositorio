@@ -1,2 +1,2 @@
-nombre = Giovanininini
+nombre = "Giovanininini"
 Print( "Hola" + nombre)
