@@ -1,2 +1,2 @@
-nombre = Samuel el gay
+nombre = "Samuel Vangay"
 Print( "Hola" + nombre)
