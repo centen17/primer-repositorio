@@ -1,2 +1,2 @@
-nombre = "Giovanininini"
-Print( "Hola" + nombre)
+nombre = "Samuel Vangay"
+print( "Hola" + nombre)
